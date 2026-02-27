@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;Editor;" alt="Typing SVG" />
 
 </p>
 
@@ -26,8 +26,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/daivesh-chaudhari-13a919321/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaiveshchaudhari-13a919321%2F&subtitle=@Daivesh Chaudhari&size=square" alt="Daivesh Chaudhari">
+<a href="(https://www.linkedin.com/in/daivesh-chaudhari-13a919321/)" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Daivesh+Chaudhari&size=square" alt="Daivesh Chaudhari">
       </a>
     </td>
    <td align="center">
