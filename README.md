@@ -25,7 +25,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/daivesh-chaudhari-13a919321/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaivesh-chaudhari-13a919321%2F&subtitle=@Daivesh Chaudhari&size=square" alt="Daivesh Chaudhari">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaiveshchaudhari-13a919321%2F&subtitle=@Daivesh Chaudhari&size=square" alt="Daivesh Chaudhari">
       </a>
     </td>
    <td align="center">
