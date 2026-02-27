@@ -20,7 +20,9 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/daivesh29/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fdaivesh29%2F&subtitle=@daivesh29&size=square" alt="Daivesh Chaudhari">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fdaivesh29%2F&subtitle=@daivesh29&size=square" 
+  alt="Daivesh Chaudhari"
+/>
       </a>
     </td>
     <td align="center">
